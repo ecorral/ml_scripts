@@ -1,7 +1,7 @@
 # ml_scripts
 Data preparation scripts for machine learning training
 
-#How to run:
+## How to run:
 * **Part 1**
  * python part_1.py
  * It will generate a text file that contains a list of available paired file names contained in a number of folders. The csv file is used to do the associations.
